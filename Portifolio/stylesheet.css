@@ -1,0 +1,240 @@
+*{
+    box-sizing: border-box;
+    display: block;
+    border-radius: 1vmax;
+}
+
+body{ 
+    width: 1920px;
+    height: 1767px;
+    display: block;
+    background-color: #21212a;
+    font-size: 14px;
+}
+
+.conteudo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #837f9e;
+}
+
+.conteudo1 {
+    width: 28%;    
+    float: left;       
+}
+
+.perfil{
+    text-align: center;
+    border-radius: 1vmax;
+    background-color: #302f3c;
+    padding: 20px;
+}
+
+.perfil span{
+    padding: 5px;
+}
+
+.perfil img{ 
+    margin-left: 20%;
+    width: 60%;
+    border-radius: 100%;
+    border: 3px groove yellowgreen;   
+}
+
+.info{
+    width: 100%;
+    text-align: left;    
+    background-color: #302f3c;
+    padding: 5px 5px;
+    margin-top: 10px;   
+}
+
+.imginfo{
+    padding: 5px 10px;
+}
+
+.imginfo span{
+    color: #837f9e; 
+}
+
+.imginfo a{
+    color: #837f9e; 
+}
+
+.imginfo img{
+    width: 18px;  
+    float: left;  
+    margin-right: 10px;
+}
+
+.tecnologias{
+    width: 100%;
+    height: 150px;
+    background-color: #302f3c;
+    text-align: left; 
+    border-radius: 1vmax;
+    margin-top: 10px; 
+    padding-left: 10px;
+}
+
+.tagstecnologia{
+    padding: 0 15px;
+}
+
+.tagstecnologia p{
+    border-radius: 1vmax;
+    background-color: darkkhaki;
+    float: left;
+    margin: 7px;
+}
+
+.experiencias{
+    margin-top: 10px;
+}
+
+.experiencias div{
+    width: 100%;
+    background-color: #302f3c;
+    border-radius: 1vmax;
+    padding-top: 7px;
+    padding-bottom: 15px; 
+    padding-left: 10px;
+}
+
+.educacao{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #302f3c;
+    border-radius: 1vmax;
+    padding-top: 7px;
+    padding-bottom: 15px; 
+    padding-left: 10px;
+    text-align: left;
+}
+
+.conteudo2 {
+    width: 60.5%;    
+    float: left;  
+    margin-left: 20px; 
+}
+
+.myprojects{
+    background-color: #302f3c;
+    width: 100%;
+    height: 55px;
+    padding: 5px 15px;
+}
+
+.texto1{
+    width: 81%;
+    font-size: 14px;
+    float: left;
+}
+
+.texto2{
+    font-size: 11px;
+    float: right;
+    width: 6%;
+    padding-top: 5px;
+}
+
+.projetos{
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.projetos img{
+    width: 5%;
+    float: left;
+    margin-right: 10px;
+    margin-top: -3px;
+}
+
+.projetos a{
+    color: #837f9e;
+    width: 90%;
+    margin-top: 12px;
+}
+
+.projetos p{
+    margin-left: 15px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.projeto1{
+    background-color: #302f3c;
+    width: 49%;
+    height: 100%;
+    padding: 5px 15px;
+    float: left;
+}
+
+.projeto1 .contriimg{
+    width: 5%;    
+    float: right;
+    margin-left: 0;
+}
+
+.projeto1 .contritex{
+    margin-left: 0;
+    padding: 3px;
+    width: 10%;
+    float: right;
+}
+
+.projeto1 .favimg{
+    width: 5%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto1 .favtex{
+    padding: 3px;
+    width: 10%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto2{
+    background-color: #302f3c;
+    width: 49%;
+    height: 100%;
+    padding: 5px 15px;
+    float: left;
+    margin-left: 20px;
+}
+
+.projeto2 .contriimg{    
+    width: 5%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto2 .contritex{
+    padding: 3px;
+    width: 10%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto2 .favimg{
+    width: 5%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto2 .favtex{
+    padding: 3px;
+    width: 10%;
+    float: right;
+    margin-left: 0;
+}
+
+.icones{
+    height: 30%;
+}
+
+.topoprojeto{
+    height: 70%;
+}
