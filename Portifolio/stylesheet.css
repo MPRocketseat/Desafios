@@ -171,7 +171,7 @@ body{
 }
 
 .projeto1 .contriimg{
-    width: 5%;    
+    width: 6%;    
     float: right;
     margin-left: 0;
 }
@@ -184,7 +184,7 @@ body{
 }
 
 .projeto1 .favimg{
-    width: 5%;
+    width: 6%;
     float: right;
     margin-left: 0;
 }
@@ -206,7 +206,7 @@ body{
 }
 
 .projeto2 .contriimg{    
-    width: 5%;
+    width: 6%;
     float: right;
     margin-left: 0;
 }
@@ -219,12 +219,47 @@ body{
 }
 
 .projeto2 .favimg{
-    width: 5%;
+    width: 6%;
     float: right;
     margin-left: 0;
 }
 
 .projeto2 .favtex{
+    padding: 3px;
+    width: 10%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto3{
+    margin-top: 10px;
+    background-color: #302f3c;
+    width: 49%;
+    height: 100%;
+    padding: 5px 15px;
+    float: left;
+}
+
+.projeto3 .contriimg{    
+    width: 6%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto3 .contritex{
+    padding: 3px;
+    width: 10%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto3 .favimg{
+    width: 6%;
+    float: right;
+    margin-left: 0;
+}
+
+.projeto3 .favtex{
     padding: 3px;
     width: 10%;
     float: right;
