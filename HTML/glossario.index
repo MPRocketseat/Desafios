@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glossário</title>
+</head>
+<body>
+    <h2>Elementos HTML</h2>
+    <dl>
+        <dt><b>&lt;p&gt; - Elemento usado para parágrafos.</b></dt>
+        <dd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/p">Saiba mais</a></dd>
+
+        <dt><b>&lt;aside&gt; - Elemento usado para barras laterais (avisos,biografias ou informacões de perfil).</b></dt>
+        <dd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/aside">Saiba mais</a></dd>
+
+        <dt><b>&lt;a&gt; - O elemento usado pra links.</b></dt>
+        <dd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a">Saiba mais</a></dd>
+
+        <dt><b>&lt;br&gt; - O elemento usado para quebra de linhas.</b></dt>
+        <dd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/br">Saiba mais</a></dd>
+    </dl>    
+</body>
+</html>
